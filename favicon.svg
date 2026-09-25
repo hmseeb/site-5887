@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Burks Roofing">
+  <rect width="64" height="64" rx="14" fill="#5a1d2c"/>
+  <path d="M32 14 10 32h6v18h11V38h10v12h11V32h6L32 14Z" fill="#ffffff"/>
+  <path d="M32 14 10 32h6l16-13 16 13h6L32 14Z" fill="#d97a33"/>
+</svg>
